@@ -10,10 +10,10 @@ I am a senior at the University of Washington studying Informatics! I'll be grad
 
 ## Favorite classes
 - This one!
-- IMT 589 - Offensive security lab
-- CSE 415 - Intro to AI
-- STAT 414 - Intro to ML
-- INFO 441 - Server-side dev
+- IMT 589 - Offensive security lab (https://owasp.org/www-chapter-vancouver/assets/presentations/2020-02_OWASP_Vancouver_Small.pdf)
+- [CSE 415 - Intro to AI](https://courses.cs.washington.edu/courses/cse415/)
+- [STAT 416 - Intro to ML](https://courses.cs.washington.edu/courses/cse416/)
+- [INFO 441 - Server-side dev](https://github.com/info441-wi21/course_info)
 
 ## My Cat!
 My cat's name is Papaya! He was a kitten in this picture but he is now ~1.5 years old
