@@ -12,7 +12,7 @@ I am a senior at the University of Washington studying Informatics! I'll be grad
 
 | Current Rank | Peak Rank | Game |
 |-----------------|----------------|----------------|
-| Platinum III    | Platinum III   | Rainbow Six Seiege |
+| Platinum III    | Platinum III   | Rainbow Six Siege |
 | Diamond 2, Division IV    | Diamond 1, Division III   | Rocket League   |
 | ~380 ELO    | ~400 ELO  | Bullet Chess |
 
