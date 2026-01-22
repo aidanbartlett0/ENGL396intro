@@ -12,7 +12,7 @@ I am a senior at the University of Washington studying Informatics! I'll be grad
 |-----------------|----------------|----------------|
 | Platinum III    | Platinum III   | Rainbow Six Seiege |
 | Diamond 2, Division IV    | Diamond 1, Division III   | Rocket League   |
-| ~380 ELO    | ~400 ELO  | Bullet Chess
+| ~380 ELO    | ~400 ELO  | Bullet Chess |
 
 ## Favorite classes
 - This one!
