@@ -8,6 +8,8 @@ I am a senior at the University of Washington studying Informatics! I'll be grad
 - Bouldering
 - Video games (Siege, Rocket League)
 - I've been learning chess!
+
+
 | Current Rank | Peak Rank | Game |
 |-----------------|----------------|----------------|
 | Platinum III    | Platinum III   | Rainbow Six Seiege |
