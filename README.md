@@ -6,7 +6,13 @@ I am a senior at the University of Washington studying Informatics! I'll be grad
 
 ## Hobbies
 - Bouldering
-- Video games (Siege and Rocket Leauge)
+- Video games (Siege, Rocket League)
+- I've been learning chess!
+| Current Rank | Peak Rank | Game |
+|-----------------|----------------|----------------|
+| Platinum III    | Platinum III   | Rainbow Six Seiege |
+| Diamond 2, Division IV    | Diamond 1, Division III   | Rocket League   |
+| ~380 ELO    | ~400 ELO  | Bullet Chess
 
 ## Favorite classes
 - This one!
@@ -18,5 +24,7 @@ I am a senior at the University of Washington studying Informatics! I'll be grad
 ## My Cat!
 My cat's name is Papaya! He was a kitten in this picture but he is now ~1.5 years old
 ![papaya](papaya.jpg)
+
+
 
 
